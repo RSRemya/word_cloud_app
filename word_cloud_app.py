@@ -106,13 +106,13 @@ if uploaded_file:
     
     # Word count table at the end
     st.sidebar.markdown("---")
-    st.sidebar.subheader("Subscribe to our Youtube Channel to learn Data Science in Urdu/Hindi")
+    st.sidebar.subheader("Subscribe to our Youtube Channel to learn more")
     # add a youtube video
-    st.sidebar.video("https://youtu.be/omk5b1m2h38")
+    st.sidebar.video("https://youtu.be/rgWcTX3VRJk?si=cfatWK7OuTNHgnvV")
     st.sidebar.markdown("---")
     # add author name and info
-    st.sidebar.markdown("Created by: [Dr. Muhammad Aammar Tufail](https://github.com/AammarTufail)")
-    st.sidebar.markdown("Contact: [Email](mailto:aammar@codanics.com)")
+    st.sidebar.markdown("Created by: [Remya R S](https://github.com/RSRemya)")
+    st.sidebar.markdown("Contact: [Email](mailto:remyarsjob@gmail.com)")
 
 
     
